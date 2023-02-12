@@ -56,6 +56,29 @@ Ce dépôt englobe la formation "Computer Vision with Python" proposée par la b
     - Introduction à Seaborn et aux graphiques
     - Cas d'usage de la visualisation de données comme outil à la Data Science
 ### Séance 3 : Machine Learning avec Python et scikit-learn
-
+- Définition du Machine Learning
+- Présentation des projets qu'on va aborder
+- Présentation des modèles de Machine Learning abordées
+    - KNN
+    - SVM
+    - Random Forest
+- Projet 1 : Classification des corps celestes
+- Projet 2 : Prediction du taux de diabetes
 ### Séance 4 : Initiation au Computer Vision avec OpenCV
+- C'est quoi le Computer Vision
+    - Définition du Computer Vision
+    - Computer Vision VS Image processing
+    - Quelques applications
+- Librairies Python pour du Computer Vision
+- Problèmes abordés à travers le Computer Vision
+- Base du Computer Vision avec OpenCV
+    - Présentation d'OpenCV
+    - Projet 1 : Classification des plaques de signalisation routières
+    - Projet 2 : Détection des visages
 ### Séance 5 : Classification des images avec Python et Tensorflow
+- Principe de classification des images
+- Applications réelles de la classification des images
+- Principe d'un réseau de neurones
+- Principe d'un CNN
+- Projet 1 : Classification GTSRB
+- Projet 2 : Chiwawa VS Muffin 
