@@ -1,0 +1,247 @@
+index,TITLE,RELEASE_YEAR,SCORE,NUMBER_OF_VOTES,DURATION,NUMBER_OF_SEASONS,MAIN_GENRE,MAIN_PRODUCTION
+0,Breaking Bad,2008,9.5,1727694,48,5,drama,US
+1,Avatar: The Last Airbender,2005,9.3,297336,24,3,scifi,US
+2,Our Planet,2019,9.3,41386,50,1,documentary,GB
+3,Kota Factory,2019,9.3,66985,42,2,drama,IN
+4,The Last Dance,2020,9.1,108321,50,1,documentary,US
+5,Arcane,2021,9.1,175412,41,1,action,US
+6,Attack on Titan,2013,9.0,325381,24,4,scifi,JP
+7,Hunter x Hunter,2011,9.0,87857,23,3,drama,JP
+8,DEATH NOTE,2006,9.0,302147,24,1,scifi,JP
+9,Seinfeld,1989,8.9,302700,24,9,comedy,US
+10,Cowboy Bebop,1998,8.9,112887,25,1,western,JP
+11,Heartstopper,2022,8.9,28978,28,1,drama,GB
+12,When They See Us,2019,8.9,114127,74,1,drama,US
+13,Monty Python's Flying Circus,1969,8.8,72895,30,4,comedy,GB
+14,BoJack Horseman,2014,8.8,143584,26,6,drama,US
+15,Chappelle's Show,2003,8.8,62140,21,3,comedy,US
+16,Better Call Saul,2015,8.8,404920,49,6,comedy,US
+17,Narcos,2015,8.8,404486,52,3,drama,US
+18,One Piece,1999,8.8,112586,23,21,action,JP
+19,Peaky Blinders,2013,8.8,485506,58,6,drama,GB
+20,Anne with an E,2017,8.7,51001,46,3,drama,CA
+21,Dark,2017,8.7,354443,56,3,scifi,DE
+22,House of Cards,2013,8.7,494092,52,6,drama,US
+23,Demon Slayer: Kimetsu no Yaiba,2019,8.7,88265,25,3,animation,JP
+24,Stranger Things,2016,8.7,989090,52,5,scifi,US
+25,One-Punch Man,2015,8.7,148386,24,2,action,JP
+26,The Crown,2016,8.7,190878,56,5,drama,US
+27,Arrested Development,2003,8.7,297552,28,5,comedy,US
+28,Friday Night Lights,2006,8.7,64449,43,5,drama,US
+29,Downton Abbey,2010,8.7,197744,58,6,drama,GB
+30,Code Geass: Lelouch of the Rebellion,2006,8.7,62367,24,3,scifi,JP
+31,Trailer Park Boys,2001,8.6,41791,25,12,comedy,CA
+32,Mindhunter,2017,8.6,261429,53,2,crime,US
+33,The Haunting of Hill House,2018,8.6,226817,58,1,drama,US
+34,The Queen's Gambit,2020,8.6,406350,56,1,drama,US
+35,Cobra Kai,2018,8.6,163858,31,5,action,US
+36,Wentworth,2013,8.6,21747,46,9,drama,AU
+37,It's Okay to Not Be Okay,2020,8.6,21104,76,1,drama,KR
+38,Making a Murderer,2015,8.6,93456,62,2,crime,US
+39,Shameless,2011,8.6,230243,54,11,drama,US
+40,Sacred Games,2018,8.6,85088,50,2,action,IN
+41,Formula 1: Drive to Survive,2019,8.6,36661,38,6,documentary,GB
+42,Queer Eye,2018,8.5,18147,47,6,reality,US
+43,Community,2009,8.5,252564,23,6,comedy,US
+44,The Last Kingdom,2015,8.5,126473,55,5,action,GB
+45,Schitt's Creek,2015,8.5,112537,22,6,comedy,CA
+46,Neon Genesis Evangelion,1995,8.5,64727,24,1,scifi,JP
+47,Call the Midwife,2012,8.5,25562,56,11,drama,GB
+48,The IT Crowd,2006,8.5,147409,25,5,comedy,GB
+49,ERASED,2016,8.5,42699,22,1,drama,JP
+50,Supernatural,2005,8.5,428639,45,15,scifi,US
+51,Ozark,2017,8.5,278223,60,4,crime,US
+52,Delhi Crime,2019,8.5,18732,27,1,drama,IN
+53,After Life,2019,8.5,124972,28,3,comedy,GB
+54,Hilda,2018,8.5,10162,25,2,scifi,GB
+55,Borgen,2010,8.5,23523,58,4,drama,DK
+56,Ash vs Evil Dead,2015,8.4,70087,30,3,action,US
+57,Heartland,2007,8.4,15743,44,15,drama,CA
+58,Unbelievable,2019,8.4,95658,48,1,drama,US
+59,The Promised Neverland,2019,8.4,34730,23,2,scifi,JP
+60,Derry Girls,2018,8.4,28718,25,3,comedy,GB
+61,Innocent,2017,8.4,17727,51,1,drama,TR
+62,Trollhunters: Tales of Arcadia,2016,8.4,16509,22,3,action,US
+63,Outlander,2014,8.4,152435,60,6,scifi,US
+64,The Legend of Korra,2012,8.4,117464,23,4,action,US
+65,The Dark Crystal: Age of Resistance,2019,8.4,24164,51,1,scifi,GB
+66,Vincenzo,2021,8.4,15134,81,1,action,KR
+67,Top Boy,2011,8.4,22420,48,2,drama,GB
+68,Babylon Berlin,2017,8.4,23256,49,4,crime,DE
+69,Stargate SG-1,1997,8.4,90196,44,10,scifi,US
+70,Violet Evergarden,2018,8.4,19940,25,1,drama,JP
+71,Narcos: Mexico,2018,8.4,80902,56,3,drama,US
+72,The Dragon Prince,2018,8.4,21635,27,3,scifi,US
+73,Maid,2021,8.4,74955,54,1,drama,US
+74,Car Masters: Rust to Riches,2018,8.4,10024,39,3,reality,US
+75,Naruto,2002,8.4,93980,23,6,scifi,JP
+76,The Originals,2013,8.3,131574,43,5,scifi,US
+77,Fauda,2015,8.3,25239,40,3,war,IL
+78,Sex Education,2019,8.3,251168,52,4,drama,GB
+79,Kingdom,2019,8.3,43760,48,2,action,KR
+80,Money Heist,2017,8.3,450797,50,5,crime,ES
+81,Young Royals,2021,8.3,26732,45,1,drama,SE
+82,Atypical,2017,8.3,81643,31,4,comedy,US
+83,Gurren Lagann,2007,8.3,17024,24,1,scifi,JP
+84,30 Rock,2006,8.3,121514,25,7,comedy,US
+85,Castlevania,2017,8.3,61114,26,4,scifi,US
+86,Kim's Convenience,2016,8.3,16970,22,5,comedy,CA
+87,Master of None,2015,8.3,72341,32,3,drama,US
+88,Longmire,2012,8.3,34362,53,6,western,US
+89,Call My Agent!,2015,8.3,13331,55,4,comedy,FR
+90,The Get Down,2016,8.2,22304,62,2,drama,US
+91,Sense8,2015,8.2,151518,62,2,scifi,US
+92,One Day at a Time,2017,8.2,15669,29,4,comedy,US
+93,The Kominsky Method,2018,8.2,38232,26,3,drama,US
+94,Itaewon Class,2020,8.2,12030,69,1,drama,KR
+95,The Good Place,2016,8.2,148562,23,4,scifi,US
+96,Grace and Frankie,2015,8.2,48435,30,7,comedy,US
+97,The Witcher,2019,8.2,465949,58,2,scifi,US
+98,Locked Up,2015,8.2,21388,50,4,drama,ES
+99,Gilmore Girls,2000,8.2,119054,46,8,comedy,US
+100,Caliphate,2020,8.2,17735,48,1,war,SE
+101,Fate/Zero,2011,8.2,12568,25,2,scifi,JP
+102,The Walking Dead,2010,8.2,945125,46,11,action,US
+103,anohana: The Flower We Saw That Day,2011,8.2,12682,23,1,drama,JP
+104,The Trials of Gabriel Fernandez,2020,8.1,10982,55,1,crime,US
+105,How to Get Away with Murder,2014,8.1,146712,43,6,drama,US
+106,Derek,2013,8.1,31976,26,3,drama,GB
+107,Rascal Does Not Dream of Bunny Girl Senpai,2018,8.1,10400,25,1,animation,JP
+108,Wild Wild Country,2018,8.1,29298,67,1,crime,US
+109,Bodyguard,2018,8.1,114446,60,2,war,GB
+110,American Vandal,2017,8.1,29972,33,2,comedy,US
+111,The End of the F***ing World,2017,8.1,177868,21,2,crime,GB
+112,Manhunt,2017,8.1,57459,43,2,documentary,US
+113,Criminal Minds,2005,8.1,189191,44,15,thriller,US
+114,HAPPY!,2017,8.1,37747,43,2,scifi,US
+115,Orange Is the New Black,2013,8.1,295591,59,7,drama,US
+116,Star Trek: Deep Space Nine,1993,8.1,61145,47,7,scifi,US
+117,Lovesick,2014,8.1,19259,24,3,comedy,GB
+118,Lucifer,2016,8.1,308291,47,6,scifi,US
+119,F is for Family,2015,8.0,36050,28,5,comedy,US
+120,Don't F**k with Cats: Hunting an Internet Killer,2019,8.0,50250,62,1,crime,US
+121,GLOW,2017,8.0,44751,34,4,drama,US
+122,The Umbrella Academy,2019,8.0,202522,52,3,comedy,US
+123,Tabula Rasa,2017,8.0,10161,52,1,drama,BE
+124,Dead to Me,2019,8.0,73110,31,2,drama,US
+125,The Mechanism,2018,8.0,36077,47,2,drama,BR
+126,Squid Game,2021,8.0,416738,54,2,action,KR
+127,Toradora!,2008,8.0,14307,30,2,animation,JP
+128,Comedians in Cars Getting Coffee,2012,8.0,12363,20,11,comedy,US
+129,Marco Polo,2014,8.0,71229,55,2,action,US
+130,Travelers,2016,8.0,54566,45,3,scifi,CA
+131,The Blacklist,2013,8.0,238138,43,9,drama,US
+132,Unorthodox,2020,8.0,74118,54,1,drama,DE
+133,Inside Bill's Brain: Decoding Bill Gates,2019,7.9,10776,50,1,documentary,US
+134,On My Block,2018,7.9,15642,29,4,comedy,US
+135,Medici: Masters of Florence,2016,7.9,18575,54,3,war,GB
+136,The Seven Deadly Sins,2014,7.9,30341,24,5,action,JP
+137,Queen of the South,2016,7.9,28537,42,5,drama,US
+138,KILL la KILL,2013,7.9,13372,25,1,action,JP
+139,Bloodline,2015,7.9,50028,57,3,drama,US
+140,Into the Badlands,2015,7.9,45628,43,3,action,US
+141,Merlin,2008,7.9,80138,44,5,action,GB
+142,InuYasha,2000,7.9,15823,25,9,action,JP
+143,Altered Carbon,2018,7.9,162018,52,2,scifi,US
+144,The OA,2016,7.9,100911,55,2,scifi,US
+145,Resurrection: Ertugrul,2014,7.9,35515,57,5,war,TR
+146,The Borgias,2011,7.9,50556,51,3,drama,CA
+147,Lilyhammer,2012,7.9,29196,45,3,crime,NO
+148,Boys Over Flowers,2009,7.9,11579,64,1,comedy,KR
+149,I Think You Should Leave with Tim Robinson,2019,7.9,11411,16,3,comedy,US
+150,Suburra: Blood on Rome,2017,7.9,14346,48,3,crime,IT
+151,The Sinner,2017,7.9,117055,45,4,crime,US
+152,The Spy,2019,7.9,40535,53,1,drama,FR
+153,Santa Clarita Diet,2017,7.9,64467,29,3,comedy,US
+154,How to Sell Drugs Online (Fast),2019,7.9,30734,32,3,drama,DE
+155,Rise of Empires: Ottoman,2020,7.9,22045,45,2,documentary,TR
+156,Big Mouth,2017,7.9,74660,27,6,animation,US
+157,Versailles,2015,7.9,16273,54,3,drama,CA
+158,She-Ra and the Princesses of Power,2018,7.8,14935,24,5,scifi,US
+159,A Series of Unfortunate Events,2017,7.8,59239,47,3,action,US
+160,Gotham,2014,7.8,226081,43,5,scifi,US
+161,Workin' Moms,2017,7.8,14892,22,6,comedy,CA
+162,Russian Doll,2019,7.8,88945,28,2,drama,US
+163,Sweet Tooth,2021,7.8,49182,45,2,scifi,US
+164,Imposters,2017,7.8,13238,43,2,drama,US
+165,iZombie,2015,7.8,66488,42,5,scifi,US
+166,Conversations with a Killer: The Ted Bundy Tapes,2019,7.8,27439,59,1,crime,US
+167,Never Have I Ever,2020,7.8,45346,28,4,drama,US
+168,My Name,2021,7.8,18446,50,1,thriller,KR
+169,Happy Endings,2011,7.8,37778,21,3,comedy,US
+170,Crazy Ex-Girlfriend,2015,7.8,19738,42,4,comedy,US
+171,El Chapo,2017,7.8,17992,44,3,drama,US
+172,NCIS,2003,7.8,141049,44,19,action,US
+173,Jane the Virgin,2014,7.8,46286,42,5,drama,US
+174,Undercover,2019,7.8,16773,49,3,drama,BE
+175,DOTA: Dragon's Blood,2021,7.8,17429,26,2,scifi,US
+176,The Innocent,2021,7.8,29019,58,1,crime,ES
+177,The Staircase,2004,7.8,21531,49,2,crime,FR
+178,Giri/Haji,2019,7.8,13570,58,1,thriller,GB
+179,Angel Beats!,2010,7.7,13848,26,1,scifi,JP
+180,Love,2016,7.7,41362,32,3,drama,US
+181,In the Dark,2019,7.7,10927,41,4,comedy,US
+182,Midnight Mass,2021,7.7,102321,64,1,action,US
+183,The Vampire Diaries,2009,7.7,310776,42,8,scifi,US
+184,Alias Grace,2017,7.7,31577,44,1,drama,CA
+185,You,2018,7.7,225949,47,3,thriller,US
+186,Norsemen,2016,7.7,18040,30,3,comedy,NO
+187,Good Girls,2018,7.7,49867,42,4,comedy,US
+188,Seven Seconds,2018,7.7,15323,62,1,crime,US
+189,The Chestnut Man,2021,7.7,41253,55,1,crime,DK
+190,Crashing,2016,7.7,18546,30,1,comedy,GB
+191,Maniac,2018,7.7,74877,39,1,drama,US
+192,New Girl,2011,7.7,216209,21,7,comedy,US
+193,Miraculous: Tales of Ladybug & Cat Noir,2015,7.7,10102,22,4,romance,FR
+194,Home for Christmas,2019,7.7,13670,29,2,comedy,NO
+195,Inside Job,2021,7.6,15137,28,1,comedy,US
+196,The Serpent,2021,7.6,41782,57,1,drama,GB
+197,Alice in Borderland,2020,7.6,47651,47,2,action,JP
+198,Spinning Out,2020,7.6,13692,50,1,drama,US
+199,Messiah,2020,7.6,42018,45,1,drama,US
+200,Teenage Bounty Hunters,2020,7.6,10821,49,1,action,US
+201,Shadow and Bone,2021,7.6,77782,52,1,scifi,US
+202,The Devil Next Door,2019,7.6,13084,46,1,documentary,US
+203,My Little Pony: Friendship Is Magic,2010,7.6,20708,22,9,scifi,CA
+204,The Magicians,2015,7.6,49557,44,5,drama,US
+205,Bordertown,2016,7.6,10371,59,3,drama,FI
+206,Unbreakable Kimmy Schmidt,2015,7.6,70242,30,4,comedy,US
+207,Chicago Med,2015,7.6,24142,41,8,drama,US
+208,The 100,2014,7.6,242221,42,7,drama,US
+209,The Flash,2014,7.6,336888,42,8,scifi,US
+210,Cable Girls,2017,7.6,13855,50,5,drama,ES
+211,Criminal: UK,2019,7.6,17992,44,2,drama,GB
+212,Devilman Crybaby,2018,7.6,18575,25,1,scifi,JP
+213,Madam Secretary,2014,7.6,22563,43,6,war,US
+214,Sword Art Online,2012,7.6,43727,23,4,scifi,JP
+215,Gilmore Girls: A Year in the Life,2016,7.6,36359,92,1,comedy,US
+216,Dead Set,2008,7.6,19684,141,1,scifi,GB
+217,Grey's Anatomy,2005,7.6,293618,49,18,drama,US
+218,Goosebumps,1995,7.6,13361,22,4,scifi,CA
+219,Love 101,2020,7.5,13797,46,2,comedy,TR
+220,Shooter,2016,7.5,35547,41,3,war,US
+221,Reign,2013,7.5,47751,42,4,drama,US
+222,Blue Exorcist,2011,7.5,12741,24,2,scifi,JP
+223,Outer Banks,2020,7.5,43404,49,2,action,US
+224,Arrow,2012,7.5,425716,42,8,action,US
+225,Halston,2021,7.5,14040,47,1,drama,US
+226,The Night Shift,2014,7.5,12069,42,4,drama,US
+227,The Heirs,2013,7.5,10329,59,1,drama,KR
+228,The Politician,2019,7.5,21887,43,2,comedy,US
+229,Ragnarok,2020,7.5,36185,47,2,action,NO
+230,Everything Sucks!,2018,7.5,18023,24,1,drama,US
+231,Frequency,2016,7.5,13625,18,3,scifi,US
+232,Dark Matter,2015,7.5,41867,43,3,scifi,CA
+233,Night Stalker: The Hunt for a Serial Killer,2021,7.5,23939,47,1,crime,US
+234,Dash & Lily,2020,7.5,16978,25,1,comedy,US
+235,True Story,2021,7.5,16927,39,1,drama,US
+236,Hollywood,2020,7.5,35067,50,1,drama,US
+237,Designated Survivor,2016,7.5,88019,44,3,war,US
+238,Quicksand,2019,7.5,21077,46,1,drama,SE
+239,Feel Good,2020,7.5,10317,25,2,drama,GB
+240,Dogs of Berlin,2018,7.5,12453,60,1,drama,DE
+241,Evil Genius,2018,7.5,27516,48,1,crime,US
+242,13 Reasons Why,2017,7.5,282373,58,4,drama,US
+243,Lupin,2021,7.5,100575,46,3,crime,FR
+244,All of Us Are Dead,2022,7.5,41393,61,1,action,KR
+245,I Am Not Okay with This,2020,7.5,56459,21,1,comedy,US

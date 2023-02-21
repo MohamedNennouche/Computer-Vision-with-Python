@@ -1,0 +1,388 @@
+index,TITLE,RELEASE_YEAR,SCORE,NUMBER_OF_VOTES,DURATION,MAIN_GENRE,MAIN_PRODUCTION
+0,David Attenborough: A Life on Our Planet,2020,9.0,31180,83,documentary,GB
+1,Inception,2010,8.8,2268288,148,scifi,GB
+2,Forrest Gump,1994,8.8,1994599,142,drama,US
+3,Anbe Sivam,2003,8.7,20595,160,comedy,IN
+4,Bo Burnham: Inside,2021,8.7,44074,87,comedy,US
+5,Saving Private Ryan,1998,8.6,1346020,169,drama,US
+6,Django Unchained,2012,8.4,1472668,165,western,US
+7,Dangal,2016,8.4,180247,161,action,IN
+8,Bo Burnham: Make Happy,2016,8.4,14356,60,comedy,US
+9,Louis C.K.: Hilarious,2010,8.4,11973,84,comedy,US
+10,Dave Chappelle: Sticks & Stones,2019,8.4,25687,65,comedy,US
+11,3 Idiots,2009,8.4,385782,170,comedy,IN
+12,Black Friday,2004,8.4,20611,143,crime,IN
+13,Super Deluxe,2019,8.4,13680,176,thriller,IN
+14,Winter on Fire: Ukraine's Fight for Freedom,2015,8.3,17710,98,documentary,UA
+15,Once Upon a Time in America,1984,8.3,342335,229,drama,US
+16,Taxi Driver,1976,8.3,795222,113,crime,US
+17,Like Stars on Earth,2007,8.3,188234,165,drama,IN
+18,Bo Burnham: What.,2013,8.3,11488,60,comedy,US
+19,Full Metal Jacket,1987,8.3,723306,116,drama,GB
+20,Warrior,2011,8.2,463276,140,drama,US
+21,Drishyam,2015,8.2,79075,163,thriller,IN
+22,Queen,2014,8.2,64805,146,drama,IN
+23,Paan Singh Tomar,2012,8.2,35888,135,drama,IN
+24,Cowspiracy: The Sustainability Secret,2014,8.2,24845,90,documentary,US
+25,Virunga,2014,8.2,11403,90,war,CD
+26,PK,2014,8.2,178012,153,comedy,IN
+27,Bāhubali 2: The Conclusion,2017,8.2,91560,168,fantasy,IN
+28,Monty Python and the Holy Grail,1975,8.2,530877,91,comedy,GB
+29,Article 15,2019,8.2,32336,130,crime,IN
+30,Miracle in Cell No. 7,2019,8.2,46939,132,drama,TR
+31,13th,2016,8.2,34914,100,documentary,US
+32,Andhadhun,2018,8.2,88359,139,thriller,IN
+33,Bill Burr: Paper Tiger,2019,8.1,10649,67,comedy,GB
+34,Udaan,2010,8.1,44556,138,drama,IN
+35,How to Train Your Dragon,2010,8.1,719717,98,fantasy,US
+36,Klaus,2019,8.1,141480,97,comedy,ES
+37,Swades,2004,8.1,89085,189,drama,IN
+38,Minnal Murali,2021,8.1,24681,158,action,IN
+39,Rang De Basanti,2006,8.1,118092,157,comedy,IN
+40,Seaspiracy,2021,8.1,29604,80,documentary,US
+41,Rush,2013,8.1,465254,123,drama,US
+42,Hannah Gadsby: Nanette,2018,8.1,12035,69,comedy,AU
+43,Barfi!,2012,8.1,80643,151,drama,IN
+44,Haider,2014,8.1,54001,150,drama,IN
+45,Zindagi Na Milegi Dobara,2011,8.1,75801,166,comedy,IN
+46,A Silent Voice: The Movie,2016,8.1,75132,130,romance,JP
+47,OMG: Oh My God!,2012,8.1,57449,125,fantasy,IN
+48,Talvar,2015,8.1,34659,132,thriller,IN
+49,Into the Wild,2007,8.1,611379,140,drama,US
+50,Lagaan: Once Upon a Time in India,2001,8.1,111053,224,drama,IN
+51,My Octopus Teacher,2020,8.1,51232,84,documentary,ZA
+52,Dil Chahta Hai,2001,8.1,71167,183,drama,IN
+53,Mersal,2017,8.1,32573,169,thriller,IN
+54,The Legend of Bhagat Singh,2002,8.1,16225,155,drama,IN
+55,Stand by Me,1986,8.1,392790,89,drama,US
+56,The Exorcist,1973,8.1,391942,133,horror,US
+57,Bombay,1995,8.1,12512,141,romance,IN
+58,Dasvi,2022,8.0,13140,125,drama,IN
+59,G.O.R.A.,2004,8.0,61797,127,scifi,TR
+60,Blood Diamond,2006,8.0,536858,143,thriller,US
+61,Vizontele,2001,8.0,36291,110,comedy,TR
+62,Ip Man,2008,8.0,221095,108,drama,HK
+63,Her,2013,8.0,586679,126,drama,US
+64,The Bourne Ultimatum,2007,8.0,627009,115,thriller,DE
+65,Casino Royale,2006,8.0,644336,139,thriller,GB
+66,Special 26,2013,8.0,55489,144,thriller,IN
+67,Neon Genesis Evangelion: The End of Evangelion,1997,8.0,51938,87,scifi,JP
+68,Bāhubali: The Beginning,2015,8.0,117333,159,drama,IN
+69,Ankhon Dekhi,2014,8.0,11330,104,drama,IN
+70,Big Fish,2003,8.0,435503,125,drama,US
+71,Silenced,2011,8.0,15889,125,drama,KR
+72,Life of Brian,1979,8.0,392419,94,comedy,GB
+73,The Invisible Guest,2017,8.0,170351,107,thriller,ES
+74,Dave Chappelle: The Closer,2021,8.0,24903,72,comedy,US
+75,Blade Runner 2049,2017,8.0,539864,164,scifi,CA
+76,The Imitation Game,2014,8.0,748654,113,thriller,US
+77,Jab We Met,2007,7.9,51945,138,comedy,IN
+78,Free to Play,2014,7.9,13308,75,documentary,UA
+79,Monty Python Live at the Hollywood Bowl,1982,7.9,15186,77,comedy,GB
+80,Dev.D,2009,7.9,30389,144,drama,IN
+81,Marriage Story,2019,7.9,290643,136,drama,GB
+82,Icarus,2017,7.9,48672,121,documentary,US
+83,I Am Not Your Negro,2017,7.9,21632,93,documentary,BE
+84,Ricky Gervais: Humanity,2018,7.9,18523,79,comedy,GB
+85,Secret Superstar,2017,7.9,24046,150,drama,IN
+86,Kal Ho Naa Ho,2003,7.9,68028,186,drama,IN
+87,Pad Man,2018,7.9,25269,140,comedy,IN
+88,Shyam Singha Roy,2021,7.9,10903,157,drama,IN
+89,How to Train Your Dragon 2,2014,7.8,327565,102,fantasy,US
+90,The Irishman,2019,7.8,371209,209,drama,US
+91,Gangaajal,2003,7.8,17029,157,drama,IN
+92,The Girl with the Dragon Tattoo,2011,7.8,454917,158,crime,NO
+93,Lakshya,2004,7.8,23076,186,drama,IN
+94,The Social Network,2010,7.8,681286,121,drama,US
+95,Dunkirk,2017,7.8,619645,107,drama,US
+96,Kai Po Che!,2013,7.8,36512,126,drama,IN
+97,The Gentlemen,2019,7.8,314049,113,comedy,US
+98,Marco Polo: One Hundred Eyes,2015,7.8,10742,28,action,US
+99,The Hateful Eight,2015,7.8,570138,188,western,US
+100,Hunt for the Wilderpeople,2016,7.8,125720,101,comedy,NZ
+101,The Last Samurai,2003,7.8,429097,154,drama,NZ
+102,Gattaca,1997,7.8,298168,106,thriller,US
+103,The Butterfly's Dream,2013,7.8,21882,138,drama,TR
+104,14 Peaks: Nothing Is Impossible,2021,7.8,22858,101,documentary,US
+105,Nightcrawler,2014,7.8,523686,118,crime,US
+106,Udta Punjab,2016,7.8,29819,148,crime,IN
+107,My Fair Lady,1964,7.8,94121,170,drama,US
+108,System Crasher,2019,7.8,12699,118,drama,DE
+109,The Game Changers,2019,7.8,19708,88,documentary,US
+110,Awakenings,1990,7.8,137549,120,drama,US
+111,Badla,2019,7.8,27130,120,thriller,IN
+112,Madras Cafe,2013,7.7,24319,130,thriller,IN
+113,Beasts of No Nation,2015,7.7,80129,137,war,US
+114,Bonnie and Clyde,1967,7.7,111189,110,drama,US
+115,Roma,2018,7.7,153508,135,drama,MX
+116,Kapoor & Sons,2016,7.7,25792,132,romance,IN
+117,Mucize,2015,7.7,12395,136,drama,TR
+118,Wind River,2017,7.7,240408,106,thriller,FR
+119,Oye Lucky! Lucky Oye!,2008,7.7,17411,126,comedy,IN
+120,Dirty Harry,1971,7.7,153463,102,thriller,US
+121,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,7.7,25593,94,comedy,US
+122,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,7.7,10257,80,fantasy,JP
+123,Silver Linings Playbook,2012,7.7,697481,122,drama,US
+124,Sanju,2018,7.7,52227,161,drama,IN
+125,Argo,2012,7.7,600392,120,drama,US
+126,Guru,2007,7.7,23541,166,romance,IN
+127,Road to Perdition,2002,7.7,263212,117,thriller,US
+128,The Trial of the Chicago 7,2020,7.7,170728,130,drama,US
+129,When Harry Met Sally...,1989,7.7,212913,96,romance,US
+130,Rock On!!,2008,7.7,21963,144,drama,IN
+131,In the Family,2017,7.7,23297,124,comedy,TR
+132,Pyaar Ka Punchnama,2011,7.7,21204,149,romance,IN
+133,Midnight in Paris,2011,7.7,413541,94,fantasy,US
+134,Donnie Brasco,1997,7.7,300073,127,thriller,US
+135,The Blind Side,2009,7.6,323939,129,drama,US
+136,Sherlock Holmes,2009,7.6,620154,129,crime,GB
+137,Stardust,2007,7.6,269043,122,fantasy,US
+138,Kuch Kuch Hota Hai,1998,7.6,51640,185,drama,IN
+139,Parmanu: The Story of Pokhran,2018,7.6,23771,129,drama,IN
+140,Doctor,2021,7.6,14590,150,thriller,IN
+141,"What Happened, Miss Simone?",2015,7.6,13703,101,musical,US
+142,Eddie Murphy Raw,1987,7.6,19646,93,comedy,US
+143,Delhi Belly,2011,7.6,29578,102,comedy,IN
+144,The Boy Who Harnessed the Wind,2019,7.6,36805,113,drama,MW
+145,Kabhi Haan Kabhi Naa,1994,7.6,18224,158,comedy,IN
+146,The Two Popes,2019,7.6,120871,125,drama,US
+147,The Social Dilemma,2020,7.6,79674,94,drama,US
+148,Bad Genius,2017,7.6,20430,130,thriller,TH
+149,The Mitchells vs. the Machines,2021,7.6,100787,113,animation,US
+150,Gifted Hands: The Ben Carson Story,2009,7.6,10210,86,drama,US
+151,Tell Me Who I Am,2019,7.6,14215,85,thriller,GB
+152,RBG,2018,7.6,14037,98,documentary,US
+153,Highway,2014,7.6,28370,133,drama,IN
+154,Athlete A,2020,7.6,10544,104,documentary,US
+155,Lupin the Third: The Castle of Cagliostro,1979,7.6,30277,100,comedy,JP
+156,Love Actually,2003,7.6,474176,139,drama,GB
+157,Hell or High Water,2016,7.6,224900,102,western,US
+158,Wake Up Sid,2009,7.6,30818,138,comedy,IN
+159,Ludo,2020,7.6,37528,150,crime,IN
+160,Stree,2018,7.6,32814,128,horror,IN
+161,Aamir,2008,7.6,11241,99,thriller,IN
+162,I Am Sam,2001,7.6,149082,132,drama,US
+163,True Grit,2010,7.6,333378,110,western,US
+164,The Distinguished Citizen,2016,7.5,11495,118,comedy,AR
+165,Jodhaa Akbar,2008,7.5,32188,213,romance,IN
+166,The Conjuring,2013,7.5,491048,107,thriller,US
+167,Dhamaka,2021,7.5,39620,104,thriller,IN
+168,Bareilly Ki Barfi,2017,7.5,23011,123,romance,IN
+169,Les Misérables,2012,7.5,325132,157,drama,GB
+170,Berserk: The Golden Age Arc I - The Egg of the King,2012,7.5,12278,76,fantasy,JP
+171,Dil Se..,1998,7.5,28409,163,drama,IN
+172,Omar,2013,7.5,14230,96,thriller,PS
+173,I Lost My Body,2019,7.5,31531,81,fantasy,FR
+174,"tick, tick... BOOM!",2021,7.5,96418,121,drama,US
+175,Coming Soon,2014,7.5,33714,134,drama,TR
+176,Nocturnal Animals,2016,7.5,264884,115,drama,US
+177,A Monster Calls,2016,7.5,86614,108,fantasy,ES
+178,On Body and Soul,2017,7.5,27003,116,fantasy,HU
+179,Ala Vaikunthapurramuloo,2020,7.5,14839,165,drama,IN
+180,The Devil's Advocate,1997,7.5,361422,144,horror,DE
+181,Sivaji: The Boss,2007,7.5,19556,189,drama,IN
+182,Happy as Lazzaro,2018,7.5,17716,125,fantasy,IT
+183,The Guns of Navarone,1961,7.5,50150,158,war,US
+184,Who Am I,2014,7.5,55044,105,thriller,DE
+185,White Christmas,1954,7.5,42373,115,romance,US
+186,Ip Man 2,2010,7.5,103673,108,drama,CN
+187,42,2013,7.5,93314,128,drama,US
+188,Menace II Society,1993,7.5,57399,97,drama,US
+189,Hum Aapke Hain Koun..!,1994,7.5,20986,206,romance,IN
+190,Blow,2001,7.5,255099,124,drama,US
+191,Begin Again,2013,7.4,154049,104,comedy,US
+192,Uncut Gems,2019,7.4,261956,130,drama,US
+193,Sherlock Holmes: A Game of Shadows,2011,7.4,446531,129,crime,US
+194,Rurouni Kenshin Part I: Origins,2012,7.4,25793,134,drama,JP
+195,Forgotten,2017,7.4,29804,109,thriller,KR
+196,Tamasha,2015,7.4,26790,139,drama,IN
+197,Mudbound,2017,7.4,47676,120,drama,US
+198,Lady Bird,2017,7.4,277165,94,drama,US
+199,Molly's Game,2017,7.4,165817,140,drama,CA
+200,Raman Raghav 2.0,2016,7.4,14380,134,thriller,IN
+201,Once Upon a Time in Mumbaai,2010,7.4,17494,132,thriller,IN
+202,Jaane Tu... Ya Jaane Na,2008,7.4,26738,155,drama,IN
+203,Peepli Live,2010,7.4,12265,104,drama,IN
+204,Even the Rain,2010,7.4,13446,104,drama,ES
+205,Darkest Hour,2017,7.4,193208,125,drama,GB
+206,The Bucket List,2007,7.4,242733,97,drama,US
+207,American Factory,2019,7.4,21415,110,documentary,US
+208,Miss Americana,2020,7.4,19151,85,documentary,US
+209,The Hand of God,2021,7.4,30235,130,drama,IT
+210,A Nightmare on Elm Street,1984,7.4,230543,91,horror,US
+211,83,2021,7.4,23781,163,drama,IN
+212,Meenakshi Sundareshwar,2021,7.4,17141,141,comedy,IN
+213,Kurup,2021,7.4,11582,155,crime,IN
+214,"Crazy, Stupid, Love.",2011,7.4,507878,118,romance,US
+215,Schumacher,2021,7.4,21558,112,sports,DE
+216,Guzaarish,2010,7.4,18466,126,drama,IN
+217,What the Health,2017,7.4,28911,97,documentary,US
+218,Mirage,2018,7.4,52657,129,thriller,ES
+219,Bully,2011,7.4,10266,92,drama,US
+220,Phantom Thread,2017,7.4,128600,130,romance,US
+221,Looper,2012,7.4,566791,119,thriller,US
+222,Felon,2008,7.4,78039,103,crime,US
+223,Life in a Metro,2007,7.4,11934,124,drama,IN
+224,Kabhi Khushi Kabhie Gham,2001,7.4,48818,210,drama,IN
+225,Kaminey,2009,7.4,17136,135,drama,IN
+226,"Girl, Interrupted",1999,7.3,180532,127,drama,US
+227,Talaash,2012,7.3,41752,149,thriller,IN
+228,Starship Troopers,1997,7.3,288960,129,scifi,US
+229,The Guernsey Literary & Potato Peel Pie Society,2018,7.3,44917,124,romance,GB
+230,Okja,2017,7.3,116305,122,drama,KR
+231,Ishqiya,2010,7.3,10415,115,comedy,IN
+232,The Edge of Seventeen,2016,7.3,120488,104,comedy,US
+233,Pyaar Ka Punchnama 2,2015,7.3,14968,159,comedy,IN
+234,The Nightingale,2018,7.3,28196,136,thriller,AU
+235,Corpse Bride,2005,7.3,265023,77,fantasy,US
+236,Memoirs of a Geisha,2005,7.3,146847,145,drama,FR
+237,El Camino: A Breaking Bad Movie,2019,7.3,216847,123,thriller,US
+238,Official Secrets,2019,7.3,45200,112,thriller,GB
+239,Coach Carter,2005,7.3,143670,130,drama,US
+240,The King,2019,7.3,119020,140,drama,AU
+241,Identity,2003,7.3,240433,90,thriller,US
+242,The Best of Enemies,2019,7.3,16441,133,drama,US
+243,The Professionals,1966,7.3,16168,117,western,US
+244,Raat Akeli Hai,2020,7.3,17570,149,thriller,IN
+245,Little Women,1994,7.3,57621,115,drama,US
+246,Badhaai Do,2022,7.3,15032,147,comedy,IN
+247,The Conjuring 2,2016,7.3,260693,134,thriller,US
+248,The Fundamentals of Caring,2016,7.3,70542,97,drama,US
+249,The Ballad of Buster Scruggs,2018,7.3,141528,132,western,US
+250,Shot Caller,2017,7.3,83961,120,thriller,US
+251,The Disaster Artist,2017,7.3,149604,104,comedy,US
+252,Blue Jay,2016,7.3,17033,81,romance,US
+253,Te3n,2016,7.3,12816,136,thriller,IN
+254,Monster,2003,7.3,149218,110,crime,US
+255,No One Killed Jessica,2011,7.2,11665,136,crime,IN
+256,Toilet: A Love Story,2017,7.2,20675,155,comedy,IN
+257,Wish Dragon,2021,7.2,24712,99,fantasy,CN
+258,Mom,2017,7.2,10320,147,crime,IN
+259,The Professor and the Madman,2019,7.2,44418,124,thriller,US
+260,Kabir Singh,2019,7.2,30949,172,drama,IN
+261,Dolemite Is My Name,2019,7.2,59836,118,comedy,US
+262,In the Line of Fire,1993,7.2,101939,128,drama,US
+263,The Witcher: Nightmare of the Wolf,2021,7.2,41508,83,fantasy,PL
+264,Ittefaq,2017,7.2,12095,107,thriller,IN
+265,The Tinder Swindler,2022,7.2,57606,114,crime,GB
+266,First They Killed My Father,2017,7.2,17871,136,drama,KH
+267,Don't Look Up,2021,7.2,498447,138,scifi,US
+268,Wazir,2016,7.2,18681,103,thriller,IN
+269,Gabbar Is Back,2015,7.2,24676,130,drama,IN
+270,Fyre,2019,7.2,44715,98,documentary,US
+271,Steve Jobs,2015,7.2,166288,122,drama,GB
+272,Shooter,2007,7.2,329417,124,thriller,US
+273,The Butler,2013,7.2,114013,132,drama,US
+274,The Siege of Jadotville,2016,7.2,38308,108,thriller,IE
+275,Closer,2004,7.2,215678,94,drama,GB
+276,Private Life,2018,7.2,19023,123,drama,US
+277,American Murder: The Family Next Door,2020,7.2,26355,83,crime,US
+278,St. Vincent,2014,7.2,102103,102,comedy,US
+279,A River Runs Through It,1992,7.2,59086,123,drama,US
+280,The Patriot,2000,7.2,270231,165,drama,DE
+281,Five Feet Apart,2019,7.2,61878,116,romance,US
+282,Michael Clayton,2007,7.2,163878,120,thriller,US
+283,The Edge of Democracy,2019,7.2,14605,121,documentary,BR
+284,Paddington,2014,7.2,111092,96,comedy,FR
+285,Wedding Association,2013,7.1,22186,106,comedy,XX
+286,Let Me In,2010,7.1,120208,116,horror,GB
+287,Raajneeti,2010,7.1,17555,167,drama,IN
+288,Body of Lies,2008,7.1,224896,128,drama,GB
+289,The Forgotten Battle,2020,7.1,26368,124,drama,LT
+290,Knock Down the House,2019,7.1,12418,86,documentary,US
+291,The Call,2020,7.1,29450,112,thriller,KR
+292,Forgetting Sarah Marshall,2008,7.1,280121,111,comedy,US
+293,The Railway Man,2013,7.1,39743,116,drama,GB
+294,The Great Hack,2019,7.1,22838,114,documentary,US
+295,Paddleton,2019,7.1,13419,89,drama,US
+296,Desperado,1995,7.1,183638,104,thriller,US
+297,Gantz:O,2016,7.1,14501,95,animation,JP
+298,The Ring,2002,7.1,341888,111,horror,JP
+299,Margin Call,2011,7.1,125883,107,thriller,US
+300,Copenhagen,2014,7.1,13135,98,drama,US
+301,Black Mirror: Bandersnatch,2018,7.1,123377,90,scifi,GB
+302,Metallica: Through the Never,2013,7.1,17433,93,musical,US
+303,Seven Years in Tibet,1997,7.1,141308,136,drama,US
+304,Girl,2018,7.1,14046,105,drama,NL
+305,Kung Fu Panda 3,2016,7.1,152791,95,comedy,US
+306,To All the Boys I've Loved Before,2018,7.1,101175,100,romance,US
+307,Arthur Christmas,2011,7.1,58296,97,drama,GB
+308,Trailer Park Boys: The Movie,2006,7.1,12831,95,comedy,CA
+309,Karthik Calling Karthik,2010,7.1,11944,135,thriller,IN
+310,The White Tiger,2021,7.1,58190,125,drama,IN
+311,Shootout at Lokhandwala,2007,7.1,10139,145,crime,IN
+312,The Devil All the Time,2020,7.1,122321,138,drama,US
+313,Tangerine,2015,7.1,31385,87,comedy,US
+314,The Danish Girl,2015,7.1,180805,119,drama,DE
+315,The Unforgivable,2021,7.1,101975,112,drama,DE
+316,Phir Hera Pheri,2006,7.1,22505,155,comedy,IN
+317,War Dogs,2016,7.1,208185,114,crime,US
+318,The Dig,2021,7.1,71915,112,drama,GB
+319,Blade,1998,7.1,267181,120,action,US
+320,Luck by Chance,2009,7.1,10206,155,romance,IN
+321,Namastey London,2007,7.1,21745,131,comedy,IN
+322,Don,2006,7.1,36836,178,thriller,IN
+323,Don 2,2011,7.1,52338,139,action,DE
+324,Main Hoon Na,2004,7.0,35142,179,drama,IN
+325,Gangubai Kathiawadi,2022,7.0,44045,157,drama,IN
+326,Croupier,1998,7.0,21382,94,thriller,FR
+327,Pieces of a Woman,2020,7.0,47795,127,drama,HU
+328,Raw,2016,7.0,72460,98,horror,BE
+329,Loving,2016,7.0,34139,123,drama,GB
+330,Harold & Kumar Go to White Castle,2004,7.0,193053,88,comedy,US
+331,Haseen Dillruba,2021,7.0,25771,135,drama,IN
+332,Rose Island,2020,7.0,20019,117,drama,IT
+333,Ferry,2021,7.0,10748,106,drama,NL
+334,Handsome Devil,2017,7.0,13708,95,drama,IE
+335,Torbaaz,2020,7.0,17828,132,drama,IN
+336,Ip Man 3,2015,7.0,54128,105,drama,HK
+337,The Foreigner,2017,7.0,112487,113,thriller,IN
+338,Mirai,2018,7.0,14983,98,fantasy,JP
+339,Gaga: Five Foot Two,2017,7.0,12825,100,musical,US
+340,The Christmas Chronicles,2018,7.0,71182,104,fantasy,US
+341,Sarkar,2018,7.0,18453,164,drama,IN
+342,Rambo,2008,7.0,228799,92,thriller,US
+343,Dil Dhadakne Do,2015,7.0,17149,170,drama,IN
+344,Soul Surfer,2011,7.0,49101,112,drama,US
+345,Happy Gilmore,1996,7.0,217534,92,comedy,US
+346,Den of Thieves,2018,7.0,107701,140,thriller,US
+347,The Zookeeper's Wife,2017,7.0,42808,122,drama,GB
+348,The Platform,2019,7.0,207877,94,horror,ES
+349,Public Enemies,2009,7.0,297525,143,crime,US
+350,Ip Man 4: The Finale,2019,7.0,30694,107,drama,CN
+351,John Q,2002,7.0,131999,116,drama,US
+352,Fashion,2008,6.9,12468,167,romance,IN
+353,Ma Rainey's Black Bottom,2020,6.9,50275,94,musical,US
+354,Any Given Sunday,1999,6.9,118479,162,drama,US
+355,The Long Riders,1980,6.9,11329,99,western,US
+356,Get on Up,2014,6.9,24456,139,drama,US
+357,Fukrey,2013,6.9,11656,137,romance,IN
+358,Chup Chup Ke,2006,6.9,10528,165,comedy,IN
+359,Then Came You,2019,6.9,12356,93,comedy,US
+360,The Wolf's Call,2019,6.9,17236,115,thriller,FR
+361,Cloudy with a Chance of Meatballs,2009,6.9,226225,90,animation,US
+362,Our Souls at Night,2017,6.9,13360,101,drama,US
+363,Chandigarh Kare Aashiqui,2021,6.9,12303,117,crime,IN
+364,Welcome,2007,6.9,21799,160,romance,IN
+365,Everybody Knows,2018,6.9,34009,132,drama,IT
+366,The Meyerowitz Stories (New and Selected),2017,6.9,47971,112,drama,US
+367,I Don't Feel at Home in This World Anymore,2017,6.9,55549,93,drama,US
+368,The Highwaymen,2019,6.9,88714,132,thriller,US
+369,Legend,2015,6.9,175273,132,thriller,US
+370,AK vs AK,2020,6.9,14048,108,drama,IN
+371,My Girl,1991,6.9,79800,103,comedy,US
+372,Amanda Knox,2016,6.9,23969,92,crime,DK
+373,2 States,2014,6.9,25344,149,comedy,IN
+374,The Power of the Dog,2021,6.9,158487,126,drama,CA
+375,The Half of It,2020,6.9,34959,104,comedy,US
+376,Outlaw King,2018,6.9,69834,121,drama,GB
+377,Mary Kom,2014,6.9,10656,122,drama,IN
+378,Suffragette,2015,6.9,41529,106,drama,FR
+379,Legend of the Guardians: The Owls of Ga'Hoole,2010,6.9,82623,100,fantasy,US
+380,Christine,2016,6.9,14977,115,drama,US
+381,The Night Comes for Us,2018,6.9,25500,121,thriller,ID
+382,The Trip,2021,6.9,19706,113,comedy,NO
+383,The Dirt,2019,6.9,47603,108,drama,US
+384,Top Gun,1986,6.9,329656,110,drama,US
+385,Radhe Shyam,2022,6.9,21328,138,romance,IN
+386,Sorry to Bother You,2018,6.9,75653,111,fantasy,US
