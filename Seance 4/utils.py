@@ -1,19 +1,13 @@
 import cv2 as cv
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from skimage.feature import hog 
-from sklearn.model_selection import train_test_split, learning_curve
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.neural_network import MLPClassifier
-from sklearn.model_selection import GridSearchCV
-from sklearn import metrics
+from sklearn.model_selection import train_test_split
 import os
 import glob
 import seaborn as sns
 
 sns.set_theme(style="darkgrid")
-
 
 
 def load_images_from_folder(folder="./Fichiers_seance_4/Signalisation/Avertissement") -> list : 
@@ -56,8 +50,10 @@ def image_resizer (listimage:list) -> None :
         listimage (list): Liste des images à resizer
     """
     dim = (64, 128)
-    for i in range(len(listimage)) :
+    for i in range(len(listimage)) : 
         listimage[i] = cv.resize(listimage[i],dim)
+    
+    return listimage
 
 def hog_list (listimage) :
     """Fonction calculant la liste des HoG d'une liste d'images
@@ -71,13 +67,11 @@ def hog_list (listimage) :
     fv = []
     hog_image = []
     for i in range(len(listimage)) :
-        a, b = hog(listimage[i], orientations=9, pixels_per_cell=(8, 8),
-                	cells_per_block=(2, 2), visualize=True, multichannel=True)
+        a, b = hog(listimage[i], orientations=9, pixels_per_cell=(8, 8), cells_per_block=(2, 2), visualize=True, channel_axis=-1)
         fv.append(a)
         hog_image.append(b)
     
     return fv,hog_image
-
 
 def prep_data(listfeatures : list, test_size:float=0.5, random_state:int=42) : 
     """Fonction permettant la préparation des données pour les passer au modèles en les étiquetant et les regroupant
@@ -94,16 +88,16 @@ def prep_data(listfeatures : list, test_size:float=0.5, random_state:int=42) :
         - etiq_test : Vecteur Numpy avec les labels pour l'évaluation du modèle
     """
     fv = list()
-    etiq = list()
+    labels = list()
     i = 0
     for fv_image in listfeatures :
         fv += fv_image
-        etiq += (i*np.ones(len(fv_image))).astype(np.uint8).tolist() # On crée les labels (0, 1 et 2 dans notre cas)
+        labels += (i*np.ones(len(fv_image))).astype(np.uint8).tolist() # On crée les labels (0, 1 et 2 dans notre cas)
         i += 1
     fv = pd.DataFrame(fv)
-    etiq = np.array(etiq)
+    labels = np.array(labels)
 
     # Split des données en train et test
-    fv_train, fv_test, etiq_train, etiq_test = train_test_split(fv, etiq, test_size=test_size,random_state=random_state) 
+    fv_train, fv_test, labels_train, labels_test = train_test_split(fv, labels, test_size=test_size,random_state=random_state) 
 
-    return fv_train, fv_test, etiq_train, etiq_test
+    return fv_train, fv_test, labels_train, labels_test
