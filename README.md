@@ -1,84 +1,106 @@
 # Formation Computer Vision with Python
-## Objectifs
-Ce dépôt englobe la formation "Computer Vision with Python" proposée par la branche estudiantine ENP de IEEE, formation adressée aux débutant et qui a pour objectif d'aller du tout début de Python jusqu'à atteindre une première application du deep learning pour le Computer Vision.
-## Technologies abordées
-- Analyse des données : Pandas
-- Visualisation des données : Matplotlib, Seaborn
+This repository includes the "Computer Vision and AI with Python" training course offered to the robotics section of the MicroClub student club at the Université en Sciences et Technologies Houari Boumedienne (USTHB). 
+
+The training ranges from an introduction to the Python language to the realization of a Deep Learning model for a Computer Vision task. 
+## Framework covered
+- Data analysis : Pandas
+- Data vizualisation : Matplotlib, Seaborn
 - Machine Learning : Scikit-learn
 - Computer Vision : OpenCV, Scikit-image
 - Deep Learning : Tensorflow, Keras
-## Programmes des séances
-### Séance 1 : Introduction au domaine du Machine Learning + Initiation au langage Python
-- Présentation du langage Python
-    - Particularité
-    - Utilisation
-    - Ecosystème
-- Introduction au concept de Machine Learning
-    - Définition
-    - Machine Learning VS Deep Learning VS Intelligence artificielle vs Data Science
-    - Le monde de la Data Science
-    - Les différents problèmes abordés par le Machine Learning et le Deep Learning (Computer Vision)
-    - Le Machine Learning en pratique, c'est quoi ?
-- Introduction au langage Python
-    - Variables et typage
-    - Opérations arithmétiques et logiques
-    - Conditions et boucles
-    - Fonctions
-    - Structures de données
-        - Listes
-        - Dictionnaires
+## Content
+### Session 1 : Introduction to Machine Learning + Introduction to the Python language
+- Introduction to the Python language
+    - Special features
+    - How to use it
+    - Ecosystem
+- Introduction to the concept of Machine Learning
+    - Defining Machine Learning
+    - Machine Learning VS Deep Learning VS Artificial Intelligence vs Data Science
+    - The world of Data Science
+    - The different problems addressed by Machine Learning and Deep Learning (Computer Vision)
+    - What is Machine Learning in practice?
+- Introduction to the Python language
+    - Hello world with Python
+    - Variables and typing
+    - Arithmetic and logical operations
+    - Conditions and loops
+    - Functions
+    - Data structures
+        - Lists
+        - Dictionaries
         - Tuples
-        - Set
-    - Classes (introduction au concept de POO)
-### Séance 2 : Analyse et visualisation des données avec Python
-- Introduction à l'analyse et la visualisation des données
-- Utilité de l'analyse et le visualisation des données
-- Librairies Python pour faire de l'analyse et la visualisation des données
-- Introduction à Numpy
-    - Création et Manipulation d'un array Numpy
-    - Extraction d'informations à partir d'un array Numpy
-    - Indexaction d'un array Numpy
-    - Opérations arithmétiques, logiques et matricielles
-    - Principe de vue et de copie
-    - Masquage et remodelage d'un array Numpy
-- Introduction à Matplotlib
-    - Présentation des différents graphiques qu'on peut faire
-    - Personnalisation des graphiques
-    - Comment créer des subplots
-- Introduction à Pandas (à travers un projet d'analyse de données)
-    - Charger des données
-    - Extraction d'informations basiques des données
-    - Manipuler la données et l'arranger
-    - Extraire les données manquantes et savoir comment les remplacer
-    - Faire des visualisations à base de DataFrame
-    - Savoir extraire de l'information à partir des données
-- Introduction à Seaborn (à travers un projet de visualisation de données)
-    - Introduction à Seaborn et aux graphiques
-    - Cas d'usage de la visualisation de données comme outil à la Data Science
-### Séance 3 : Machine Learning avec Python et scikit-learn
-- Définition du Machine Learning
-- Présentation des projets qu'on va aborder
-- Présentation des modèles de Machine Learning abordées
-    - KNN
-    - SVM
-    - Random Forest
-- Projet 1 : Classification des corps celestes
-- Projet 2 : Prediction du taux de diabetes
-### Séance 4 : Initiation au Computer Vision avec OpenCV
-- C'est quoi le Computer Vision
-    - Définition du Computer Vision
-    - Computer Vision VS Image processing
-    - Quelques applications
-- Librairies Python pour du Computer Vision
-- Problèmes abordés à travers le Computer Vision
-- Base du Computer Vision avec OpenCV
-    - Présentation d'OpenCV
-    - Projet 1 : Classification des plaques de signalisation routières
-    - Projet 2 : Détection des visages
-### Séance 5 : Classification des images avec Python et Tensorflow
-- Principe de classification des images
-- Applications réelles de la classification des images
-- Principe d'un réseau de neurones
-- Principe d'un CNN
-- Projet 1 : Classification GTSRB
-- Projet 2 : Chiwawa VS Muffin 
+        - Sets
+    - Classes (introduction to the OOP concept)
+### Session 2 : Data analysis and visualization with Python
+- Introduction to data analysis and visualization
+- Usefulness of data analysis and visualization
+- The common Python libraries for data analysis and visualization
+- Introduction to NumPy 
+    - Creating and manipulating a Numpy array
+    - Extracting information from a Numpy array
+    - Indexing a Numpy array
+    - Arithmetic, logic and matrix operations
+    - Viewing and copying principles
+    - Boolean Masks
+    - Random Number generation
+    - Reshaping a Numpy array
+- Introduction to data visualization with Matplotlib
+    - Overview of the different graphs you can create
+    - Customizing graphs
+    - How to create subplots
+- Introduction to data analysis with Pandas
+    - Load data
+    - Extracting basic information from data
+    - Manipulating and arranging data
+    - Extract missing data and know how to replace it
+    - Create DataFrame-based visualizations
+    - Extracting information from data
+- Introduction to Seaborn
+    - Introduction to Seaborn and graphics
+    - Use cases for data visualization as a Data Science tool
+### Session 3: Machine Learning with Python and scikit-learn
+- Definition of Machine Learning
+- Presentation of the different problems that can arise
+- Presentation of the models we'll be using
+- Using Machine Learning for a classification problem
+- Setting up an analysis and data visualization pipeline
+- Training, optimization and performance comparison of the models presented
+- Visualization of the results obtained.
+
+### Session 4 : Introduction to Computer Vision with OpenCV
+- What is Compuer Vision 
+    - Definition of Computer Vision
+    - Computer Vision vs Image processing
+    - Several applications
+- Python libraries for Computer Vision
+- Computer Vision with OpenCV
+    - Presentation of OpenCV
+    - Project 1 : Classification of traffic signs
+        - Data loading
+        - Application of filters
+        - Color space conversion
+        - Image reshaping
+        - Application of HoG (Histogram of Oriented Gradient)
+        - Classification using previously studied Machine Learning models
+    - Additional content : Faces detection using Haar Cascade algorithm 
+### Session 5 : Introduction to Computer Vision using Deep Learning
+- Definition of Deep Learning
+- Presentation of some Deep Learning applications in Computer Vision
+- Presentation of the frameworks we'll be using
+- MNIST project
+    - Introduction to Keras and Tensorflow
+    - Loading a dataset
+    - Dataset preprocessing
+    - Creation of a CNN using the three paradigms: sequential, functional and object-oriented
+    - Model training and evaluation
+### Session 6 : Image classification with Tensorflow 
+- Image loading 
+- Image pre-processing
+- Setting up a complete pipeline
+- Model evaluation
+- Discussion of possible improvements
+## Additional content
+### Complementary projects
+### OpenCV tutorial
+## Coming soon
