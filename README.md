@@ -1,4 +1,4 @@
-# Formation Computer Vision with Python
+# Training Computer Vision with Python
 This repository includes the "Computer Vision and AI with Python" training course offered to the robotics section of the MicroClub student club at the Université en Sciences et Technologies Houari Boumedienne (USTHB). 
 
 The training ranges from an introduction to the Python language to the realization of a Deep Learning model for a Computer Vision task. 
