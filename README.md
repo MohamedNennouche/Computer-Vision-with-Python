@@ -100,6 +100,8 @@ The training ranges from an introduction to the Python language to the realizati
 - Setting up a complete pipeline
 - Model evaluation
 - Discussion of possible improvements
+
+# In preparation
 ## Additional content
 ### Complementary projects
 ### OpenCV tutorial
